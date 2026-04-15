@@ -88,6 +88,7 @@ This repository is intended only to demonstrate my technical contributions and e
 ---
 
 ## Contact
+Linkedin: www.linkedin.com/in/aditya-chaudhari-016a7930b/
 For detailed discussion about my contribution, feel free to connect during interviews.
 
 
